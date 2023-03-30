@@ -1,0 +1,1 @@
+"This is The Odin Project's 'Etch a Sketch' Foundation Section Project."
