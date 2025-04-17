@@ -1,100 +1,85 @@
 ![Screenshot-from-2023-04-13-10-55-15.png](https://i.postimg.cc/C1W8dTRr/Screenshot-from-2023-04-13-10-55-15.png)
 
-### 🇧🇷 Projeto Etch a Sketch 🇧🇷
+## 🇧🇷 Etch a Sketch 🖌️
 
-[Este](https://www.theodinproject.com/lessons/foundations-etch-a-sketch) é o projeto "Etch a Sketch" do The Odin Project para a seção Foundations.
+### Descrição
 
-Descrição
+Este projeto é o [desafio "Etch a Sketch" da seção Foundations do The Odin Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch).  
+O objetivo é criar um aplicativo de desenho interativo, que permite aos usuários desenharem com o mouse em uma grade dinâmica.
 
-O objetivo deste projeto é criar um aplicativo de desenho interativo que permite aos usuários desenhar em uma janela.
+### Como Usar
 
-Como Usar
+```bash
+git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
+cd etch-a-sketch
+```
 
-1.  Clone este repositório para sua máquina local usando o seguinte comando:
+Depois, abra o arquivo `index.html` com seu navegador preferido.
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
-    ```
+### Conteúdo
 
-2.  Navegue até o diretório do projeto:
+- Aplicativo de desenho interativo  
+- Funcionalidade de desenho com mouse  
+- Interface dinâmica e personalizável
 
-    ```bash
-    cd etch-a-sketch
-    ```
-
-3.  Abra o arquivo `index.html` em seu navegador web.
-
-Conteúdo
-
-* Aplicativo de desenho interativo.
-* Funcionalidade de desenho com mouse.
-
-Contribuição
+### Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou novas funcionalidades.
 
-### 🇺🇸 Etch a Sketch Project 🇺🇸
+---
 
-[This](https://www.theodinproject.com/lessons/foundations-etch-a-sketch) is The Odin Project's "Etch a Sketch" project for the Foundations section.
+## 🇺🇸 Etch a Sketch 🖌️
 
-Description
+### Description
 
-The goal of this project is to create an interactive drawing application that allows users to sketch on a window.
+This is the [“Etch a Sketch” challenge from The Odin Project's Foundations section](https://www.theodinproject.com/lessons/foundations-etch-a-sketch).  
+The goal is to build an interactive drawing app that allows users to sketch freely on a dynamic grid using their mouse.
 
-How to Use
+### How to Use
 
-1.  Clone this repository to your local machine using the following command:
+```bash
+git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
+cd etch-a-sketch
+```
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
-    ```
+Then open the `index.html` file in your browser.
 
-2.  Navigate to the project directory:
+### Content
 
-    ```bash
-    cd etch-a-sketch
-    ```
+- Interactive drawing application  
+- Mouse-based drawing functionality  
+- Dynamic and customizable grid
 
-3.  Open the `index.html` file in your web browser.
+### Contribution
 
-Content
+Contributions are welcome! Feel free to open pull requests with improvements or new features.
 
-* Interactive drawing application.
-* Mouse drawing functionality.
+---
 
-Contribution
+## 🇯🇵 Etch a Sketch 🖌️
 
-Contributions are welcome! Feel free to submit pull requests with improvements or new features.
+### 説明
 
-### 🇯🇵 Etch a Sketch プロジェクト 🇯🇵
+このプロジェクトは、[The Odin Projectの「Etch a Sketch」課題（Foundationsセクション）](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)です。  
+目的は、マウスを使ってグリッド上に自由にスケッチできるインタラクティブな描画アプリケーションを作成することです。
 
-[これ](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)はThe Odin ProjectのFoundationsセクションの「Etch a Sketch」プロジェクトです。
+### 使用方法
 
-説明
+```bash
+git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
+cd etch-a-sketch
+```
 
-このプロジェクトの目標は、ユーザーがウィンドウにスケッチできるインタラクティブな描画アプリケーションを作成することです。
+その後、`index.html`をブラウザで開いてください。
 
-使用方法
+### 内容
 
-1.  次のコマンドを使用して、このリポジトリをローカルマシンにクローンします。
+- インタラクティブな描画アプリケーション  
+- マウスによる描画機能  
+- 動的でカスタマイズ可能なグリッド
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
-    ```
+### 貢献
 
-2.  プロジェクトディレクトリに移動します。
+改善や新機能の追加など、プルリクエストを歓迎します！
 
-    ```bash
-    cd etch-a-sketch
-    ```
-
-3.  ウェブブラウザで`index.html`ファイルを開きます。
-
-内容
-
-* インタラクティブな描画アプリケーション。
-* マウス描画機能。
-
-貢献
-
-貢献を歓迎します！改善や新しい機能を含むプルリクエストを自由に送信してください。
+---
