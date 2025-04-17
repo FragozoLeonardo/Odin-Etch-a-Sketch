@@ -1,6 +1,6 @@
 ![Screenshot-from-2023-04-13-10-55-15.png](https://i.postimg.cc/C1W8dTRr/Screenshot-from-2023-04-13-10-55-15.png)
 
-## 🇧🇷 Etch a Sketch 🖌️
+## 🇧🇷 Odin Etch a Sketch 🖌️
 
 ### Descrição
 
@@ -10,8 +10,8 @@ O objetivo é criar um aplicativo de desenho interativo, que permite aos usuári
 ### Como Usar
 
 ```bash
-git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
-cd etch-a-sketch
+git clone https://github.com/FragozoLeonardo/Odin-Etch-a-Sketch.git
+cd Odin-Etch-a-Sketch
 ```
 
 Depois, abra o arquivo `index.html` com seu navegador preferido.
@@ -28,7 +28,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ---
 
-## 🇺🇸 Etch a Sketch 🖌️
+## 🇺🇸 Odin Etch a Sketch 🖌️
 
 ### Description
 
@@ -38,8 +38,8 @@ The goal is to build an interactive drawing app that allows users to sketch free
 ### How to Use
 
 ```bash
-git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
-cd etch-a-sketch
+git clone https://github.com/FragozoLeonardo/Odin-Etch-a-Sketch.git
+cd Odin-Etch-a-Sketch
 ```
 
 Then open the `index.html` file in your browser.
@@ -47,7 +47,7 @@ Then open the `index.html` file in your browser.
 ### Content
 
 - Interactive drawing application  
-- Mouse-based drawing functionality  
+- Mouse-based drawing functionality 
 - Dynamic and customizable grid
 
 ### Contribution
@@ -56,7 +56,7 @@ Contributions are welcome! Feel free to open pull requests with improvements or 
 
 ---
 
-## 🇯🇵 Etch a Sketch 🖌️
+## 🇯🇵 Odin Etch a Sketch 🖌️
 
 ### 説明
 
@@ -66,8 +66,8 @@ Contributions are welcome! Feel free to open pull requests with improvements or 
 ### 使用方法
 
 ```bash
-git clone https://github.com/FragozoLeonardo/etch-a-sketch.git
-cd etch-a-sketch
+git clone https://github.com/FragozoLeonardo/Odin-Etch-a-Sketch.git
+cd Odin-Etch-a-Sketch
 ```
 
 その後、`index.html`をブラウザで開いてください。
