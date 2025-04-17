@@ -28,7 +28,6 @@ Conteúdo
 
 * Aplicativo de desenho interativo.
 * Funcionalidade de desenho com mouse.
-* Opções de limpeza e ajuste de tamanho.
 
 Contribuição
 
@@ -62,7 +61,6 @@ Content
 
 * Interactive drawing application.
 * Mouse drawing functionality.
-* Clear and size adjustment options.
 
 Contribution
 
@@ -96,7 +94,6 @@ Contributions are welcome! Feel free to submit pull requests with improvements o
 
 * インタラクティブな描画アプリケーション。
 * マウス描画機能。
-* クリアおよびサイズ調整オプション。
 
 貢献
 
