@@ -1,4 +1,4 @@
-[![Screenshot-from-2023-04-13-10-55-15.png](https://i.postimg.cc/C1W8dTRr/Screenshot-from-2023-04-13-10-55-15.png)](https://postimg.cc/9RY0Nkty)]
+![Screenshot-from-2023-04-13-10-55-15.png](https://i.postimg.cc/C1W8dTRr/Screenshot-from-2023-04-13-10-55-15.png)
 
 ### 🇧🇷 Projeto Etch a Sketch 🇧🇷
 
